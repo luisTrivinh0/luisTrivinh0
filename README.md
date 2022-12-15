@@ -7,7 +7,7 @@
 I'm a {backend, frontend} developer and programming logic instructor.
 - [Blog](https://comoumloop.blogspot.com/) ✍🏼 - I'm write about many things.
 - 👀 I’m interested in Corinthians
-- 🌱 I’m currently learning Python!
+- 🌱 I’m currently learning about Amazon Web Services!
 - 💞️ I’m looking to collaborate on the World
 - 📫 luis.trivinho@icloud.com | +55 15 99104-6030
 
