@@ -13,7 +13,8 @@ I'm a {backend, frontend} developer and programming logic instructor.
 
 Projeto Experweb - (Backoffice/API - Laravel + GraphQL) - (Front-end - React)
 ![image](https://github.com/luisTrivinh0/luisTrivinh0/assets/95496868/de3d4fb5-0475-430c-ac04-021f6864b57f)
-![image](https://github.com/luisTrivinh0/luisTrivinh0/assets/95496868/3113ee67-dd33-4249-aa6f-b8b137e87d39)
+![image](https://github.com/luisTrivinh0/luisTrivinh0/assets/95496868/1de88ee0-e8ce-4d71-8e27-7a729ff6e3a2)
+
 
 
 Projeto Colisões - (Backoffice/API - Laravel) - (App Mobile - React Native)
