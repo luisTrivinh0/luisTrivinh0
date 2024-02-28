@@ -11,6 +11,11 @@ I'm a {backend, frontend} developer and programming logic instructor.
 - 💞️ I’m looking to collaborate on the World
 - 📫 luis.trivinho@icloud.com | +55 15 99104-6030
 
+Projeto Experweb - (Backoffice/API - Laravel + GraphQL) - (Front-end - React)
+![image](https://github.com/luisTrivinh0/luisTrivinh0/assets/95496868/de3d4fb5-0475-430c-ac04-021f6864b57f)
+![image](https://github.com/luisTrivinh0/luisTrivinh0/assets/95496868/3113ee67-dd33-4249-aa6f-b8b137e87d39)
+
+
 Projeto Colisões - (Backoffice/API - Laravel) - (App Mobile - React Native)
 
 ![image](https://github.com/luisTrivinh0/luisTrivinh0/assets/95496868/fc7f53fd-4e13-4df0-b753-4d3bcac353a0)
@@ -35,7 +40,7 @@ Projeto Colisões - (Backoffice/API - Laravel) - (App Mobile - React Native)
 <br><h3>Projeto ADM - Codeigniter 3</h3>
 ![Captura de tela 2022-12-08 114129](https://user-images.githubusercontent.com/95496868/206476815-7286d15e-c2f4-4ded-ba41-d6b79cbbc62b.png)
 
-<h3>Estes são apenas 4 dos mais de 15 projetos que participei em Desenvolvimento e Manutenção!</h3>
+<h3>Estes são apenas 6 dos mais de 17 projetos que participei em Desenvolvimento e Manutenção!</h3>
 <!---
 luisTrivinh0/luisTrivinh0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
