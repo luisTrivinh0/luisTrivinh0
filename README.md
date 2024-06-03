@@ -41,7 +41,7 @@ Projeto Colisões - (Backoffice/API - Laravel) - (App Mobile - React Native)
 <br><h3>Projeto ADM - Codeigniter 3</h3>
 ![Captura de tela 2022-12-08 114129](https://user-images.githubusercontent.com/95496868/206476815-7286d15e-c2f4-4ded-ba41-d6b79cbbc62b.png)
 
-<h3>Estes são apenas 6 dos mais de 17 projetos que participei em Desenvolvimento e Manutenção!</h3>
+<h3>Estes são apenas alguns dos mais de 20 projetos que participei em Desenvolvimento e Manutenção!</h3>
 <!---
 luisTrivinh0/luisTrivinh0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
