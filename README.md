@@ -9,6 +9,7 @@ I'm a {backend, frontend} developer and programming logic instructor.
 - 👀 I’m interested in Corinthians
 - 🌱 I’m currently learning about Machine Learning!
 - 💞️ I’m looking to collaborate on the World
+- Experience with PHP, Laravel, Wordpress, React.js, Node, React Native and more!
 - 📫 luis.trivinho@icloud.com | +55 15 99104-6030
 
 <h3>Projeto Backoffice - PHP 8.x</h3>
