@@ -12,6 +12,16 @@ I'm a {backend, frontend} developer and programming logic instructor.
 - Experience with PHP, Laravel, Wordpress, React.js, Node, React Native and more!
 - 📫 luis.trivinho@icloud.com | +55 15 99104-6030
 
+<br><h3>Projeto Experweb - (Backoffice/API - Laravel + GraphQL) - (Front-end - React)</h3>
+
+![image](https://github.com/luisTrivinh0/luisTrivinh0/assets/95496868/de3d4fb5-0475-430c-ac04-021f6864b57f)
+![image](https://github.com/luisTrivinh0/luisTrivinh0/assets/95496868/1de88ee0-e8ce-4d71-8e27-7a729ff6e3a2)
+
+<br><h3>Projeto Colisões - (Backoffice/API - Laravel) - (App Mobile - React Native)</h3>
+
+![image](https://github.com/luisTrivinh0/luisTrivinh0/assets/95496868/fc7f53fd-4e13-4df0-b753-4d3bcac353a0)
+![image](https://github.com/luisTrivinh0/luisTrivinh0/assets/95496868/1b1851b1-e7b9-4294-a3be-f55539b36513)
+
 <h3>Projeto Backoffice - PHP 8.x</h3>
 
 ![Backoffice](https://user-images.githubusercontent.com/95496868/191362919-193932ca-3d6e-4f31-8751-e7c2516611b5.png)<br>
@@ -27,21 +37,6 @@ I'm a {backend, frontend} developer and programming logic instructor.
 
 ![DSB](https://user-images.githubusercontent.com/95496868/191364833-cf3f5c71-c9b0-45fe-a4c9-0f3337472f36.png)<br>
 ![DSB2](https://user-images.githubusercontent.com/95496868/191363808-55fd217f-c8ca-46b2-b0c2-536a4145a814.png)
-
-
-<br><h3>Projeto Experweb - (Backoffice/API - Laravel + GraphQL) - (Front-end - React)</h3>
-
-![image](https://github.com/luisTrivinh0/luisTrivinh0/assets/95496868/de3d4fb5-0475-430c-ac04-021f6864b57f)
-![image](https://github.com/luisTrivinh0/luisTrivinh0/assets/95496868/1de88ee0-e8ce-4d71-8e27-7a729ff6e3a2)
-
-
-
-<br><h3>Projeto Colisões - (Backoffice/API - Laravel) - (App Mobile - React Native)</h3>
-
-![image](https://github.com/luisTrivinh0/luisTrivinh0/assets/95496868/fc7f53fd-4e13-4df0-b753-4d3bcac353a0)
-![image](https://github.com/luisTrivinh0/luisTrivinh0/assets/95496868/1b1851b1-e7b9-4294-a3be-f55539b36513)
-
-
 
 <br><h3>Projeto ADM - Codeigniter 3</h3>
 ![Captura de tela 2022-12-08 114129](https://user-images.githubusercontent.com/95496868/206476815-7286d15e-c2f4-4ded-ba41-d6b79cbbc62b.png)
