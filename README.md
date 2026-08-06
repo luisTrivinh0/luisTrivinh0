@@ -2,12 +2,12 @@
 
 [![Github Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/luisTrivinh0)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lu%C3%ADs-trivinho-897942224/)
-[![Blog Badge](https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://comoumloop.blogspot.com/)
+[![Website Badge](https://img.shields.io/badge/-Website-007ACC?style=flat-square&logo=firefox&logoColor=white)](https://triwo-digital.netlify.app/)
 
 ### 🚀 About Me
 Full-stack Developer (Backend & Frontend) and Programming Logic Instructor.
 
-- 📝 I write about technology and software development on my [Blog](https://comoumloop.blogspot.com/).
+- 🌐 Check out my personal website and portfolio: [Triwo Digital](https://triwo-digital.netlify.app/).
 - 🌱 Currently expanding my knowledge in **Machine Learning**.
 - ⚽ Passionate about Corinthians.
 - 🤝 Open to collaborating on open-source projects and global opportunities.
