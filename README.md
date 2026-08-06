@@ -26,7 +26,6 @@ Full-stack Developer (Backend & Frontend) and Programming Logic Instructor.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
-
 <br><h3>Projeto Cakto - (Front-end - React | Back-end Python)</h3>
 <img width="1889" height="769" alt="image" src="https://github.com/user-attachments/assets/c27f2820-9858-491f-92f7-80c586e1acae" />
 
