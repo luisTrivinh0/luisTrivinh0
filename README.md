@@ -27,12 +27,6 @@ Full-stack Developer (Backend & Frontend) and Programming Logic Instructor.
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisTrivinh0&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisTrivinh0&layout=compact&theme=radial" alt="Top Languages" width="48%" />
-</p>
-
 <br><h3>Projeto Cakto - (Front-end - React | Back-end Python)</h3>
 <img width="1889" height="769" alt="image" src="https://github.com/user-attachments/assets/c27f2820-9858-491f-92f7-80c586e1acae" />
 
