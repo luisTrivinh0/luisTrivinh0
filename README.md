@@ -1,16 +1,37 @@
-# Hi, I'm Luís Henrique! :D
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/luisTrivinh0)](https://github.com/luisTrivinh0)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lu%C3%ADs-trivinho-897942224/)](https://www.linkedin.com/in/lu%C3%ADs-trivinho-897942224/)
-<br>
+# Hi, I'm Luís Trivinho! 👋
 
-### About me
-I'm a {backend, frontend} developer and programming logic instructor.
-- [Blog](https://comoumloop.blogspot.com/) ✍🏼 - I'm write about many things.
-- 👀 I’m interested in Corinthians
-- 🌱 I’m currently learning about Machine Learning!
-- 💞️ I’m looking to collaborate on the World
-- Experience with PHP, Laravel, Wordpress, React.js, Node, React Native and more!
-- 📫 luis.trivinho@icloud.com | +55 15 99104-6030
+[![Github Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/luisTrivinh0)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lu%C3%ADs-trivinho-897942224/)
+[![Blog Badge](https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://comoumloop.blogspot.com/)
+
+### 🚀 About Me
+Full-stack Developer (Backend & Frontend) and Programming Logic Instructor.
+
+- 📝 I write about technology and software development on my [Blog](https://comoumloop.blogspot.com/).
+- 🌱 Currently expanding my knowledge in **Machine Learning**.
+- ⚽ Passionate about Corinthians.
+- 🤝 Open to collaborating on open-source projects and global opportunities.
+- 📫 How to reach me: [luis.trivinho@icloud.com](mailto:luis.trivinho@icloud.com) | +55 15 99104-6030
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages & Frameworks**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=luisTrivinh0&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisTrivinh0&layout=compact&theme=radial" alt="Top Languages" width="48%" />
+</p>
 
 <br><h3>Projeto Cakto - (Front-end - React | Back-end Python)</h3>
 <img width="1889" height="769" alt="image" src="https://github.com/user-attachments/assets/c27f2820-9858-491f-92f7-80c586e1acae" />
