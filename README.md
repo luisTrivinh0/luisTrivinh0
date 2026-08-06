@@ -12,11 +12,11 @@ I'm a {backend, frontend} developer and programming logic instructor.
 - Experience with PHP, Laravel, Wordpress, React.js, Node, React Native and more!
 - 📫 luis.trivinho@icloud.com | +55 15 99104-6030
 
-<br><h3>Projeto Cakto - (Front-end - React)</h3>
+<br><h3>Projeto Cakto - (Front-end - React | Back-end Python)</h3>
 <img width="1889" height="769" alt="image" src="https://github.com/user-attachments/assets/c27f2820-9858-491f-92f7-80c586e1acae" />
 
 
-<br><h3>Projeto Nommi - (Front-end - React)</h3>
+<br><h3>Projeto Nommi - (Front-end - React | Back-end Python)</h3>
 ![image](https://github.com/user-attachments/assets/6ea87625-b74e-4f70-9e18-91aa7c3fc8e4)
 
 <br><h3>Projeto Experweb - (Backoffice/API - Laravel + GraphQL) - (Front-end - React)</h3>
