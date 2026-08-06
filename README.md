@@ -13,6 +13,8 @@ Full-stack Developer (Backend & Frontend) and Programming Logic Instructor.
 - 🤝 Open to collaborating on open-source projects and global opportunities.
 - 📫 How to reach me: [luis.trivinho@icloud.com](mailto:luis.trivinho@icloud.com) | +55 15 99104-6030
 
+IN JESUS WE TRUST!
+
 ---
 
 ### 🛠️ Tech Stack & Tools
