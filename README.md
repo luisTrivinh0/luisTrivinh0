@@ -1,6 +1,6 @@
 # Luís Trivinho
 
-**Fullstack Software Engineer** focused on building production SaaS applications, payment flows, API integrations and transactional systems.
+**Senior Software Engineer** focused on building production SaaS applications, payment flows, API integrations and transactional systems.
 
 I work across frontend and backend, turning product requirements into reliable web and mobile experiences with a strong focus on maintainability, performance and business impact.
 
@@ -25,6 +25,10 @@ End-to-end work on SaaS products, from authentication and dashboards to APIs, da
 ### Enterprise web & mobile systems
 
 Development and maintenance of business-critical applications using React, React Native, Laravel, Node.js and SQL, including dashboards, mobile POS flows, integrations and operational tooling.
+
+## Portfolio
+
+[Software Engineering Portfolio](https://github.com/luisTrivinh0/portfolio)
 
 ## Current focus
 
